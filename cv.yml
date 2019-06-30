@@ -1,10 +1,10 @@
-"goal": "I want to become a true developer"
-"have_a_job": "industrial climber"
-"laptop": "yes, lenovo thinkPad T450s win7"
-"english": "elementary"
-"phone_number": +79112283708
-"hours_per_day": "8"
-"age": 20
-"full_name": "Grigorii Mikhalev"
-"education": "1 year of higher education" 
-"programming_languages": "a bit of java, python" 
+goal: "I want to become a true developer"
+have_a_job: "industrial climber"
+laptop: "yes, lenovo thinkPad T450s win7"
+english: "elementary"
+phone_number: +79112283708
+hours_per_day: "8"
+age: 20
+full_name: "Grigorii Mikhalev"
+education: "1 year of higher education" 
+programming_languages: "a bit of java, python" 
